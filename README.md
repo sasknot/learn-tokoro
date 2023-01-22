@@ -1,6 +1,6 @@
 # Learn: Tokoro
 
-Built with [CRA](https://create-react-app.dev) + [React](https://reactjs.org) + [TypeScript](https://www.typescriptlang.org) + [Mapbox](https://www.mapbox.com)
+Built with [CRA](https://create-react-app.dev) + [React](https://reactjs.org) + [TypeScript](https://www.typescriptlang.org) + [styled components](https://styled-components.com) + [Mapbox](https://www.mapbox.com)
 
 See [demo](https://rafaelfsilva1-tokoro.vercel.app)
 
