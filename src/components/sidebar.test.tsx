@@ -1,4 +1,3 @@
-import { FC } from 'react'
 import { render, fireEvent } from '@testing-library/react'
 import Sidebar from './sidebar'
 import { MapProvider } from '../contexts/map-context'
@@ -21,7 +20,7 @@ describe('components/sidebar.tsx', function () {
     "end_date": "2019-05-02",
     "description": "Visiting some relatives of my wife"
   }] as App.Place[]
-  const mapProviderWrapper: FC = (props) => (
+  const mapProviderWrapper = (props: any) => (
     <MapProvider latitude={22} longitude={22} zoom={11} places={places}>
       {props.children}
     </MapProvider>
