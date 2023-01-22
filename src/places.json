@@ -1,0 +1,65 @@
+[
+  {
+    "name": "São José dos Campos, Brazil",
+    "latitude": -23.177341344045686,
+    "longitude": -45.890089249424875,
+    "type": "hometown",
+    "start_date": "1990-05-15",
+    "end_date": "2016-02-19",
+    "description": "The city I was born"
+  },
+  {
+    "name": "São Paulo, Brazil",
+    "latitude": -23.545414853623754,
+    "longitude": -46.63545233720842,
+    "type": "hometown",
+    "start_date": "2016-02-19",
+    "end_date": "2018-06-24",
+    "description": "Where I grew up more professionally"
+  },
+  {
+    "name": "Munich, Germany",
+    "latitude": 48.139770799540486,
+    "longitude": 11.57513654892557,
+    "type": "travel",
+    "start_date": "2016-12-20",
+    "end_date": "2016-12-23",
+    "description": "One of my favorites cities I visited in a Europe trip with my family"
+  },
+  {
+    "name": "Toyota, Japan",
+    "latitude": 35.08805910339173,
+    "longitude": 137.1557696455755,
+    "type": "hometown",
+    "start_date": "2018-06-26",
+    "end_date": "2020-02-14",
+    "description": "Trying a new life in Japan"
+  },
+  {
+    "name": "Okazaki, Japan",
+    "latitude": 34.958745436051515,
+    "longitude": 137.17311852180256,
+    "type": "visit",
+    "start_date": "2019-05-02",
+    "end_date": "2019-05-02",
+    "description": "Visiting some relatives of my wife"
+  },
+  {
+    "name": "Chikusei, Japan",
+    "latitude": 36.31146008439073,
+    "longitude": 139.98142062617967,
+    "type": "visit",
+    "start_date": "2019-08-13",
+    "end_date": "2019-08-14",
+    "description": "A long trip to Ibaraki to visit more relatives"
+  },
+  {
+    "name": "São José dos Campos, Brazil",
+    "latitude": -23.177341344045686,
+    "longitude": -45.88398428224497,
+    "type": "hometown",
+    "start_date": "2020-02-16",
+    "end_date": null,
+    "description": "Came back to Brazil to be back in the IT field one more time"
+  }
+]
